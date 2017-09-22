@@ -9,16 +9,6 @@ a:hover {
   color: #fff;
 }
 
-/* Custom default button */
-.btn-secondary,
-.btn-secondary:hover,
-.btn-secondary:focus {
-  color: #1C1C1C;
-  text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #32CD32;
-  border: .05rem solid #32CD32;
-}
-
 .jumbotron{
   background-color:#e9ecef;
 }
@@ -76,9 +66,9 @@ body {
   margin-bottom: 0;
 }
 
-.masthead-heading{
+.heading{
   border-bottom: .25rem solid transparent;
-  border-bottom-color:  #32CD32;
+  border-bottom-color:  #28a745;
 }
 
 .nav-masthead .nav-link {

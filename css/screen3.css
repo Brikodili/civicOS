@@ -76,7 +76,7 @@ body {
   margin-bottom: 0;
 }
 
-.masthead-heading{
+.heading{
   border-bottom: .25rem solid transparent;
   border-bottom-color:  #32CD32;
 }
@@ -92,7 +92,7 @@ body {
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
    color: #FFFFFF;
-  border-bottom-color: #CD2626;
+  border-bottom-color: #28a745;
 }
 
 .nav-masthead .nav-link + .nav-link {
